@@ -9,7 +9,7 @@
   build, reporting and documentation from a central piece of information.
 
   Documentation
-  -------------
+  -------------%%%%%%
 
   The most up-to-date documentation can be found at https://maven.apache.org/.
 
